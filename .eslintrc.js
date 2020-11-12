@@ -26,5 +26,7 @@ module.exports = {
     "import/no-unresolved": [2, { "caseSensitive": false }],
     "react/jsx-props-no-spreading": 0,
     "comma-dangle": ["error", "only-multiline"],
+    "arrow-body-style": ["error", "always"],
+
   },
 };
